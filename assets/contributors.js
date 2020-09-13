@@ -86,5 +86,9 @@ export const contributors = [
   {
     name: 'Josh Cadieux',
     githubProfile: 'https://github.com/JCadoo2002'
+  },
+  {
+    name: 'Gexter',
+    githubProfile: 'https://github.com/gexter-sangsongthong'
   }
 ]
