@@ -12,6 +12,10 @@ export const contributors = [
     githubProfile: 'https://github.com/JTibs18'
   },
   {
+    name: 'Edward Akapo',
+    githubProfile: 'https://github.com/edwardakapo'
+  },
+  {
     name: 'Reszonance',
     githubProfile: 'https://github.com/Reszonance'
   },
