@@ -28,6 +28,10 @@ export const contributors = [
     githubProfile: 'https://github.com/cuHacking'
   },
   {
+    name: 'Jacob Zekorn',
+    githubProfile: 'https://github.com/xZeke'
+  },
+  {
     name: 'Anwar',
     githubProfile: 'https://github.com/anwarkulane'
   },
