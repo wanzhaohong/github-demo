@@ -3,7 +3,7 @@ export const contributors = [
     name: 'Wal Wal',
     githubProfile: 'https://github.com/Walsker'
   },
-   {
+  {
     name: 'AutoScott',
     githubProfile: 'https://github.com/SolidSoundGuy'
   },
@@ -52,8 +52,8 @@ export const contributors = [
     githubProfile: 'https://github.com/IanWebster7'
   },
   {
-   name: 'Alex Nedev',
-   gitHubProfile: 'https://github.com/AlexNedev'
+    name: 'Alex Nedev',
+    gitHubProfile: 'https://github.com/AlexNedev'
   },
   {
     name: 'Aidan French',
