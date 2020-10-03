@@ -2,6 +2,9 @@ import { contributors } from '../assets/contributors.js'
 
 const namesList = document.getElementById('names-list')
 
+// Display the number of contributors
+document.getElementById('count').innerText = contributors.length.toString()
+
 contributors.forEach((contributor) => {
   // Create link element
   const linkElement = document.createElement('a')
