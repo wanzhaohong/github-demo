@@ -1,15 +1,13 @@
 # dependencies
 /node_modules
 
-# Yarn 2 Zero-Install config: https://yarnpkg.com/advanced/qa/#which-files-should-be-gitignored
+# Yarn
 .yarn/*
-!.yarn/cache
 !.yarn/releases
 !.yarn/plugins
 !.yarn/sdks
 !.yarn/versions
-!.yarn/unplugged
-!.yarn/build-state.yml
+.pnp.*
 
 # misc
 .DS_Store
